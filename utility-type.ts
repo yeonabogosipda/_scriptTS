@@ -1,10 +1,10 @@
-interface Product{
-id: number;
-name: string;
-price: number;
-brand: string;
-stock: number;
-}
+  interface Product{
+    id: number;
+    name: string;
+    price: number;
+    brand: string;
+    stock: number;
+  }
 
   function fetchProducts(): Promise<Product[]>{
   
