@@ -1,5 +1,5 @@
 # _scriptTS
-_scriptTS
+📌 _scriptTS 📌
 
 
 ### getStaticProps : 빌드 타임 때 `data fetch`   
