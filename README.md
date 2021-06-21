@@ -1,4 +1,4 @@
-# 📌_scriptTS📌
+# 📌_scriptT
 _scriptTS
 
 
